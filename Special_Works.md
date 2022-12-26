@@ -1,4 +1,7 @@
 ### 26.12.2022 (announcement Petabyte)
+- We are now starting the launch of v3.0.8.
+
+### 26.12.2022 (announcement Petabyte)
 - The servers are now ready for the launch of version 3.0.8 for **Petabyte**.
 
 ### 26.12.2022 (announcement Petabyte)
