@@ -1,9 +1,9 @@
 # <img align="left" alt="Petabyte" width="200px" src="https://user-images.githubusercontent.com/102324985/209575097-f135cd7e-b068-499a-88c2-f25d0617ba9a.png" draggable="false" />  ([Click to try 🚀](https://petabyte.ml/))
 
-Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
+Petabyte ☁️ - 1.000.000 Gigabyte free storage for you! 💯
 
-## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt)** **Check out the full Cloud2Go changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloud2Go/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloud2Go besides development**
+## **[Changelog ☁️](https://github.com/linkspreed/Petabyte/blob/main/changelog.txt)** **Check out the full Petabyte changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Petabyte/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Petabyte besides development**
 
 
 <div align="center">
