@@ -1,4 +1,7 @@
 ### 26.12.2022 (announcement Petabyte)
+-  **Petabyte** gets a big update today - we are going to launch v3.0.8. 😍
+
+### 26.12.2022 (announcement Petabyte)
 - **Petabyte**'s mail server is working now ...
 
 ### 26.12.2022 (announcement Petabyte)
