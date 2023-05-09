@@ -1,5 +1,5 @@
 ### 09.05.2023 (announcement Petabyte)
-🌥️📂🔁 Our Cloud Petabyte is making a temporary detour to our new Cloud ShareNode while we work on a plan for Petabyte storage. How do you manage your big data needs? 🤔 #CloudStorage #DataManagement #TechTalk
+- 🌥️📂🔁 Our Cloud Petabyte is making a temporary detour to our new Cloud ShareNode while we work on a plan for Petabyte storage. How do you manage your big data needs? 🤔 #CloudStorage #DataManagement #TechTalk
 
 ### 06.04.2023 (announcement Petabyte)
 - 📢 Attention all data hoarders! 🐶🐱🦜🐠🐦 #Petabyte just launched v3.1.0! Get your unlimited storage now and never run out of space again! 🚀
