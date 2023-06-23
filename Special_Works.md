@@ -1,3 +1,6 @@
+### 23.06.2023 (announcement Petabyte)
+- 🎉 Exciting news! 📢 We've just added our platform Petabyte to our subdomain system! 🔍 Check it out on https://petabyte.ml which will now redirect you to https://petabyte.linkspreed.com 🌐 No changes for you, just some technical improvements in the background! 🤓 Are you excited to keep using it? Let us know! #Petabyte #Data #TechUpdates 🐾
+
 ### 09.05.2023 (announcement Petabyte)
 - 🌥️📂🔁 Our Cloud Petabyte is making a temporary detour to our new Cloud ShareNode while we work on a plan for Petabyte storage. How do you manage your big data needs? 🤔 #CloudStorage #DataManagement #TechTalk
 
